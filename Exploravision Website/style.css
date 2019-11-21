@@ -1,0 +1,74 @@
+/*Custom Font?*/
+* {
+	font-family: 'Playfair Display', serif;
+}
+body {
+	background-color: darkblue;
+	font-family: 'Playfair Display', serif;
+}
+#mainbox {
+	color: black;
+	border: 1px solid black;
+	background-color: white;
+	margin: 1% auto;
+	padding: 30px 20px;
+	max-width: 800px;
+	width: 100%;
+	border: 2px solid black;
+	margin-top: 20px;
+}
+p {
+	margin: auto;
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+}
+h1 {
+	margin: auto;
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+}
+h2 {
+	margin: auto;
+	text-align: center;
+	font-size: 40px;
+	margin-top: 0px;
+}
+a {
+	color: blue;
+	font-size: 30px;
+	text-decoration: none;
+}
+#back {
+	text-align: left;
+	color: blue;
+}
+a:visited {
+	color: blueviolet;
+	text-decoration: none;
+}
+#back:visited {
+	color: blueviolet;
+}
+.PT1 {
+	width: 404px;
+	height: 145px;
+	display: block;
+	margin: auto;
+}
+#citation {
+	text-align: center;
+	font-size: 12px;
+}
+.PT2 {
+	display: block;
+	margin: auto;
+}
+.BT1 {
+	display: block;
+	margin: auto;
+}
+/*
+#citationbt {
+	text-align: center;
+	font-size: 10px;
+}*/
