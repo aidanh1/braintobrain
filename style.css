@@ -19,7 +19,7 @@ body {
 }
 p {
 	margin: auto;
-	text-align: center;
+	text-align: left;
 	font-family: 'Playfair Display', serif;
 }
 h1 {
@@ -72,3 +72,6 @@ a:visited {
 	text-align: center;
 	font-size: 10px;
 }*/
+#link {
+	text-align: center;
+}
